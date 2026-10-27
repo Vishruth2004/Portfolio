@@ -85,7 +85,7 @@ export default function App() {
         {/* SECTION 1: HEADER & PROFILE */}
         <header className="mb-20">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-950/60 border border-blue-800/50 text-blue-400 text-xs font-medium mb-6">
-            <span>⚡</span> Frontend & Web Developer
+            <span>⚡</span> Frontend & AI Application Engineer
           </div>
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-white mb-4">
             Vishruth
