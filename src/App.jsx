@@ -40,7 +40,7 @@ export default function App() {
       frontendHighlights: "Built with Vue 3. Features organized course menus, clean chat screens, video playback navigation, and AI Generated Mock Quiz.",
       stack: ["Vue.js (Vue 3)", "Python (Flask)", "Google Gemini API (2.5 Flash)", "FAISS Vector Search", "LangChain / RAG"],
       liveUrl: "https://llm-rag-education-agent.onrender.com/#/coursecontents?id=1",
-      githubUrl: "https://github.com/Vishruth2004/LLM-RAG-Education-Agent",
+      githubUrl: "https://github.com/Vishruth2004/LLM_RAG_Education_agent",
       badge: "Vue 3 • Full Stack"
     },
     {
@@ -48,8 +48,8 @@ export default function App() {
       desc: "An AI coding chatbot guided by few-shot prompting to give users clean, properly structured code complete with docstrings, type annotations, and consistent formatting based on prompt requests.",
       frontendHighlights: "Built with React. Features a clean two-panel layout optimized for code readability, side-by-side prompt views, and one-click code copy buttons.",
       stack: ["React", "Python (Flask)", "AWS Bedrock (Claude Sonnet 4.5)"],
-      liveUrl: "https://claude-code-assistant-backend.onrender.com",
-      githubUrl: "url?id=3",
+      liveUrl: "https://codecraft-frontend-tnig.onrender.com",
+      githubUrl: "https://github.com/Vishruth2004/Code_Asst_Enhanced",
       badge: "React • Multimodal"
     },
     {
@@ -58,7 +58,7 @@ export default function App() {
       frontendHighlights: "Role-based dashboards for different users and a quick search bar with live catalog filtering.",
       stack: ["Flask", "PostgreSQL", "SQLAlchemy", "Jinja2 Templates"],
       liveUrl: "https://library-application-u0hk.onrender.com",
-      githubUrl: "url?id=5",
+      githubUrl: "https://github.com/Vishruth2004/Library_app_deploy",
       badge: "Full Stack • PostgreSQL"
     }
   ];
